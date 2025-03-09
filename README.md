@@ -17,7 +17,7 @@ Clonez ce repository ou téléchargez le script :
 bash
 Copy
 Edit
-git clone https://github.com/Jka667/enum-scripts.git
+git clone https://github.com/Jka667/Script-d-num-ration-Privilege-Escalation-pour-Linux
 Donnez les permissions d'exécution au script :
 
 bash
